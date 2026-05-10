@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Krupa!
 
-<!--
-**KRUPA-05581/KRUPA-05581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student developer passionate about learning, creating, and building meaningful tech projects. I enjoy exploring new technologies, improving my skills, and turning ideas into real applications. My GitHub is where I document my growth, experiments, and learning journey
 
-Here are some ideas to get you started:
+ 🚀 About Me
+🎓 Student & self-learner in technology
+💻 Interested in web development, UI/UX, and creative coding
+📚 Always exploring new tools, frameworks, and design ideas
+🌱 Currently learning: JavaScript, Python, Git/GitHub, and modern web design
+🎨 Love combining creativity with technology
+💡 Open to collaborations, ideas, and fun side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Tech Stack
+ Languages:
+ Python • JavaScript • HTML • CSS
+ Tools & Platforms:
+ Git & GitHub
+ VS Code
+ Figma (for UI/UX)
+
+ 📫 Connect With Me
+Email:
+kkrupa033@gmail.com 
+LinkedIn:
+linkedin.com/in/krupak05581
